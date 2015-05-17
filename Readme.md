@@ -5,5 +5,5 @@
 
 # Требования
 
-.Net Framework 3.5.
-System Center Configuration Manager 2007
+- .Net Framework 3.5.
+- System Center Configuration Manager 2007
